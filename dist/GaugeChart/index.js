@@ -9,7 +9,7 @@ exports.default = void 0;
 
 var _react = _interopRequireWildcard(require("react"));
 
-var _d = require("d3");
+var _d = import("d3");
 
 var _propTypes = _interopRequireDefault(require("prop-types"));
 
